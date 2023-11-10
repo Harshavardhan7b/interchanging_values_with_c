@@ -2,12 +2,12 @@ This Code interchanges the values of two integers
 ---------------------------------------------------
 OUTPUT Example
 ---------------------------------------------------
-Enter 1st number : \n
-1 \n
-Enter 2nd number : \n
-2 \n 
-You entered the number : 1, it is now : 2 \n
-You entered the number : 2, it is now : 1 \n
+Enter 1st number :
+1
+Enter 2nd number :
+2  
+You entered the number : 1, it is now : 2
+You entered the number : 2, it is now : 1
 
 Limitations of the code
 -----------------------------------------------------------------------------------------------------------------------------------------
